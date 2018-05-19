@@ -6,5 +6,4 @@ docs/_site
 docs/.sass-cache
 coverage
 dist
-bin
 test/**.js.xml
